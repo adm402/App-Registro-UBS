@@ -1,0 +1,6 @@
+{
+  "name": "UBS Dentist Attendance Logger",
+  "description": "Form-style logs and patient demographics tracker for dentists working in Basic Health Units (UBS) in Medianeira, PR.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
